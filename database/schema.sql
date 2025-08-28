@@ -1,0 +1,2 @@
+-- Placeholder for database schema
+-- Tables: Faculty, Classroom, Courses, Batches, Timetable
